@@ -2,6 +2,7 @@
   it gets input from user and search it in tweets and and show their sentiment analysis using textBlob
 # Dependencies
      tweepy
+    
      textblob
      
      pip install tweepy
